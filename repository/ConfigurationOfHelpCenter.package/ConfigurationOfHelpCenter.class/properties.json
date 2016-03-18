@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfHelpCenter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfHelpCenter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
