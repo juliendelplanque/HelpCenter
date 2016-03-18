@@ -1,0 +1,17 @@
+{
+	"category" : "HelpCenter-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/4/2016 08:55",
+	"instvars" : [
+		"helpPragma",
+		"iconPragma",
+		"openPragma",
+		"opener" ],
+	"name" : "HelpCenter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

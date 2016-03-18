@@ -1,0 +1,1 @@
+Object defining help in class side for testing.

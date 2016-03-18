@@ -1,0 +1,1 @@
+Error indicating that the target class does not define an icon.

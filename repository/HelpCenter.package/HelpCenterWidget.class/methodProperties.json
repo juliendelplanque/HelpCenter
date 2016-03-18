@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"defaultSpec" : "JulienDelplanque 1/31/2016 22:01",
+		"help" : "JulienDelplanque 2/1/2016 11:08",
+		"icon" : "JulienDelplanque 2/3/2016 14:28",
+		"opener:helpPragma:iconPragma:openPragma:" : "JulienDelplanque 2/4/2016 07:49" },
+	"instance" : {
+		"defaultTitle" : "JulienDelplanque 1/31/2016 19:10",
+		"helpCenter" : "JulienDelplanque 2/4/2016 07:39",
+		"helpCenter:" : "JulienDelplanque 2/4/2016 07:39",
+		"helpList" : "JulienDelplanque 1/31/2016 18:33",
+		"helpText" : "JulienDelplanque 1/31/2016 18:33",
+		"initialize" : "JulienDelplanque 2/24/2016 16:33",
+		"initializeHelpList" : "JulienDelplanque 2/4/2016 08:40",
+		"initializeOpenToolButton" : "JulienDelplanque 2/4/2016 08:41",
+		"initializePresenter" : "JulienDelplanque 2/25/2016 08:12",
+		"initializeWidgets" : "JulienDelplanque 1/31/2016 21:59",
+		"openShortcut" : "JulienDelplanque 2/24/2016 16:32",
+		"openToolButton" : "JulienDelplanque 1/31/2016 21:59",
+		"openWidget" : "JulienDelplanque 2/24/2016 16:26",
+		"selectedClassChanged:" : "JulienDelplanque 2/4/2016 08:51",
+		"shortcutsCenter" : "JulienDelplanque 2/24/2016 16:16" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "HelpCenter-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"helpCenter",
+		"opener",
+		"testClass",
+		"testClass2" ],
+	"name" : "HelpCenterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

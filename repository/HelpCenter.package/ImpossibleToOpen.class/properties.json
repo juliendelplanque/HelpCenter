@@ -1,0 +1,14 @@
+{
+	"category" : "HelpCenter-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/1/2016 17:48",
+	"instvars" : [
+		 ],
+	"name" : "ImpossibleToOpen",
+	"pools" : [
+		 ],
+	"super" : "HelpCenterError",
+	"type" : "normal" }

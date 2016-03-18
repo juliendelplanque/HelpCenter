@@ -1,0 +1,14 @@
+{
+	"category" : "HelpCenter-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/1/2016 17:48",
+	"instvars" : [
+		"targetClass" ],
+	"name" : "HelpCenterError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

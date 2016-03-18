@@ -1,0 +1,14 @@
+{
+	"category" : "HelpCenter-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/1/2016 10:57",
+	"instvars" : [
+		"opened" ],
+	"name" : "OpenerForTest",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

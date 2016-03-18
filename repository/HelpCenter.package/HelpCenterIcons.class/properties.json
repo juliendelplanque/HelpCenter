@@ -1,0 +1,14 @@
+{
+	"category" : "HelpCenter-Icons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Current" ],
+	"commentStamp" : "JulienDelplanque 2/3/2016 14:30",
+	"instvars" : [
+		"icons" ],
+	"name" : "HelpCenterIcons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

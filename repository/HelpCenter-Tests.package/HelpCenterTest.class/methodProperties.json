@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulienDelplanque 2/4/2016 08:59",
+		"testCanBeOpen" : "JulienDelplanque 2/1/2016 17:39",
+		"testHasIcon" : "JulienDelplanque 2/1/2016 17:39",
+		"testHasIconPragma" : "JulienDelplanque 2/1/2016 17:40",
+		"testHasOpenPragma" : "JulienDelplanque 2/1/2016 17:40",
+		"testHelpPragmaFor" : "JulienDelplanque 2/1/2016 17:31",
+		"testHelpTextFor" : "JulienDelplanque 2/1/2016 17:41",
+		"testHelpTitleFor" : "JulienDelplanque 2/1/2016 17:41",
+		"testIconFor" : "JulienDelplanque 2/1/2016 17:52",
+		"testIconPragmaFor" : "JulienDelplanque 2/1/2016 17:52",
+		"testOpen" : "JulienDelplanque 2/1/2016 17:53",
+		"testOpenPragmaFor" : "JulienDelplanque 2/1/2016 17:32" } }

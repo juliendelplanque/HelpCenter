@@ -1,0 +1,1 @@
+Error indicating that the target class does not define how to open the widget.

@@ -1,0 +1,18 @@
+{
+	"category" : "HelpCenter-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 1/31/2016 18:57",
+	"instvars" : [
+		"helpList",
+		"helpText",
+		"openToolButton",
+		"helpCenter",
+		"shortcutsCenter" ],
+	"name" : "HelpCenterWidget",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am the widget used to browse help text about widgets use.
