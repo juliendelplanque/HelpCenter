@@ -5,5 +5,5 @@ baseline04: spec
 	spec for: #'common' do: [
 		spec blessing: #'baseline'.
 		spec repository: 'http://smalltalkhub.com/mc/JulienDelplanque/HelpCenter/main/'.
-		spec baseline: 'ShortcutsCenter' with: [
-			spec repository: 'github://juliendelplanque/ShortcutsCenter/repository' ]. ].
+		spec baseline: 'HelpCenter' with: [
+			spec repository: 'github://juliendelplanque/HelpCenter/repository' ]. ].
